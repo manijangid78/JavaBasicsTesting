@@ -8,10 +8,10 @@ public class Main {
         list.add("Manish");
         list.add("Ramesh");
         list.add("Mahesh");
-        list.add("Reena");
-        list.add("Reena");
-        list.add("Reena");
-        list.add("Reena");
+        list.add("Mahesh");
+        list.add("Mahesh");
+        list.add("Mahesh");
+        list.add("Mahesh");
         list.add("Reena");
 
 
