@@ -13,14 +13,8 @@ public class Main {
         list.add("Mahesh");
         list.add("Mahesh");
         list.add("Mahesh");
-        list.add("Reena");
-        list.add("Reena");
-        list.add("Reena");
-        list.add("Reena");
-        list.add("Reena");
-        list.add("Reena");
-            list.add("Reena");
 
+        list.add("Mohan");
 
 
         Iterator<String> iterator = list.iterator();
