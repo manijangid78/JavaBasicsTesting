@@ -13,8 +13,8 @@ public class Main {
         list.add("Mahesh");
         list.add("Mahesh");
         list.add("Mahesh");
-
         list.add("Mohan");
+        list.add("test added");
 
 
         Iterator<String> iterator = list.iterator();
