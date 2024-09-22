@@ -9,6 +9,10 @@ public class Main {
         list.add("Ramesh");
         list.add("Mahesh");
         list.add("Reena");
+        list.add("Reena");
+        list.add("Reena");
+        list.add("Reena");
+        list.add("Reena");
 
 
 
