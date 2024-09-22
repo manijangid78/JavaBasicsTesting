@@ -6,9 +6,10 @@ public class Main {
         List<String> list = new ArrayList<>();
 
         list.add("Manish");
+        list.add("Manish");
+        list.add("Manish");
+        list.add("Manish");
         list.add("Ramesh");
-        list.add("Mahesh");
-        list.add("Mahesh");
         list.add("Mahesh");
         list.add("Mahesh");
         list.add("Mahesh");
